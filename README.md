@@ -16,11 +16,11 @@ Certify is a comprehensive platform designed for students, teachers, and adminis
 
 ## Technology Stack
 
-- **Frontend:** React.js  
-- **Backend:** Spring Boot (Java)  
-- **Database:** Firebase / Realtime Database  
+- **Frontend:** Java, XML
+- **Backend:** Java
+- **Database:** Firebase , ImgBB  
 - **Authentication:** Firebase Authentication  
-- **APIs & Tools:** DeepAI / OpenRouter for chatbot functionality  
+- **APIs & Tools:** Gemini API
 
 ---
 ## Screenshots
